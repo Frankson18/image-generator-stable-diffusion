@@ -1,0 +1,47 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+*.ipynb_checkpoints
+
+# Poetry
+.poetry/
+*.lock
+.env
+.env.*
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Modelos grandes ou dados pesados
+*.ckpt
+*.pt
+*.pth
+*.h5
+*.onnx
+*.tflite
+*.npz
+
+# Arquivos do Streamlit
+.streamlit/
+
+# Imagens geradas
+*.png
+*.jpg
+*.jpeg
+images/
+
+# Cache de HuggingFace
+~/.cache/huggingface/
+
+# VSCode
+.vscode/
