@@ -34,12 +34,6 @@ Thumbs.db
 # Arquivos do Streamlit
 .streamlit/
 
-# Imagens geradas
-*.png
-*.jpg
-*.jpeg
-images/
-
 # Cache de HuggingFace
 ~/.cache/huggingface/
 
